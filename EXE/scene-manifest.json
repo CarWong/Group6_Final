@@ -1,0 +1,1104 @@
+{
+	"Texture1D": {
+		"613d6bd1-6a35-c943-87a1-9ccfb726a584": {
+			"filename": "luts/toon-1D.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_mode": "",
+			"guid": "613d6bd1-6a35-c943-87a1-9ccfb726a584"
+		}
+	},
+	"Texture2D": {
+		"860c1193-a535-204f-b856-73e4b8e42509": {
+			"anisotropic": 16.0,
+			"filename": "textures/box-diffuse.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "860c1193-a535-204f-b856-73e4b8e42509"
+		},
+		"4bf7f740-efb5-e44b-8662-9052d1ce65ab": {
+			"anisotropic": 16.0,
+			"filename": "textures/box-specular.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "4bf7f740-efb5-e44b-8662-9052d1ce65ab"
+		},
+		"8fcb05fa-baee-d449-b429-e577e13cfa79": {
+			"anisotropic": 16.0,
+			"filename": "textures/monkey-uvMap.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "8fcb05fa-baee-d449-b429-e577e13cfa79"
+		},
+		"e3fab0ad-697a-d747-bba2-86cd5d2b498e": {
+			"anisotropic": 16.0,
+			"filename": "textures/leaves.png",
+			"filter_mag": "Nearest",
+			"filter_min": "Nearest",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "e3fab0ad-697a-d747-bba2-86cd5d2b498e"
+		},
+		"7717ef02-6903-e949-94db-b494b5b1c557": {
+			"anisotropic": 16.0,
+			"filename": "textures/flashlight.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "7717ef02-6903-e949-94db-b494b5b1c557"
+		},
+		"4ede3b19-45a4-de43-8562-08b14021d62e": {
+			"anisotropic": 16.0,
+			"filename": "textures/flashlight-2.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "4ede3b19-45a4-de43-8562-08b14021d62e"
+		},
+		"08f57508-5ec2-9749-b55b-7ea9286c528e": {
+			"anisotropic": 16.0,
+			"filename": "textures/light_projection.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "08f57508-5ec2-9749-b55b-7ea9286c528e"
+		},
+		"a798b24a-66b7-7545-889f-9d62741550fe": {
+			"anisotropic": 16.0,
+			"filename": "textures/Platform.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "a798b24a-66b7-7545-889f-9d62741550fe"
+		},
+		"29f9d590-5729-284d-8fcd-f2a0af3ad1ba": {
+			"anisotropic": 16.0,
+			"filename": "textures/beans.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "29f9d590-5729-284d-8fcd-f2a0af3ad1ba"
+		},
+		"866f07d9-7ab2-694d-83f7-aec27f5f60e4": {
+			"anisotropic": 16.0,
+			"filename": "textures/trashyTEX.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "866f07d9-7ab2-694d-83f7-aec27f5f60e4"
+		},
+		"62a06aaf-5963-9f4f-920b-97d7bb3d30dd": {
+			"anisotropic": 16.0,
+			"filename": "textures/backgroundexam.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "62a06aaf-5963-9f4f-920b-97d7bb3d30dd"
+		},
+		"9d1aa31c-f3e9-164d-96dc-d78800af3bb6": {
+			"anisotropic": 16.0,
+			"filename": "textures/winscreen.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "9d1aa31c-f3e9-164d-96dc-d78800af3bb6"
+		},
+		"b502dc86-6929-c040-a396-c8e37aad4254": {
+			"anisotropic": 16.0,
+			"filename": "textures/losescreen.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "b502dc86-6929-c040-a396-c8e37aad4254"
+		},
+		"6ec86f63-1c54-1243-8bab-d27edbec7922": {
+			"anisotropic": 16.0,
+			"filename": "textures/ball.jpg",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "6ec86f63-1c54-1243-8bab-d27edbec7922"
+		},
+		"7686f010-640c-8f41-b019-6b76feff62d3": {
+			"anisotropic": 16.0,
+			"data": "gYAAgAA_AD-BP4GAgYAAgAA_AD8APwAAAACAAIA_gD8Pw",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"format": "RGB",
+			"generate_mipmaps": true,
+			"pixel_type": "Float",
+			"size_x": 1,
+			"size_y": 1,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "7686f010-640c-8f41-b019-6b76feff62d3"
+		},
+		"42511aef-71a6-1645-8c47-dded371f88f4": {
+			"anisotropic": 16.0,
+			"data": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"format": "RGB",
+			"generate_mipmaps": true,
+			"pixel_type": "Float",
+			"size_x": 1,
+			"size_y": 1,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "42511aef-71a6-1645-8c47-dded371f88f4"
+		},
+		"e08cedad-602f-0046-9035-cf89a44b7a37": {
+			"anisotropic": 16.0,
+			"data": "gYAAgAA_AD-BP4GAgYAAgAA_AD-BP4GAgYAAgAA_AD8Pw",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"format": "RGB",
+			"generate_mipmaps": true,
+			"pixel_type": "Float",
+			"size_x": 1,
+			"size_y": 1,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "e08cedad-602f-0046-9035-cf89a44b7a37"
+		},
+		"f7ddd827-ad8c-c54c-a6e5-e981b30064c4": {
+			"anisotropic": 16.0,
+			"data": "AACAAIA_gD8APwAAAACAAIA_gD8APwAAAACAAIA_gD8Pw",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"format": "RGB",
+			"generate_mipmaps": true,
+			"pixel_type": "Float",
+			"size_x": 1,
+			"size_y": 1,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "f7ddd827-ad8c-c54c-a6e5-e981b30064c4"
+		},
+		"f564b5c7-2662-b74e-ad22-6d14bbb47a9e": {
+			"anisotropic": 16.0,
+			"filename": "textures/displacement_map.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "f564b5c7-2662-b74e-ad22-6d14bbb47a9e"
+		},
+		"ac39d457-43aa-cd44-98d1-8b2b888ad66e": {
+			"anisotropic": 16.0,
+			"filename": "textures/normal_map.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "ac39d457-43aa-cd44-98d1-8b2b888ad66e"
+		},
+		"d369fb4d-e190-7b4d-b710-d4c4fc500505": {
+			"anisotropic": 16.0,
+			"filename": "textures/bricks_diffuse.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "d369fb4d-e190-7b4d-b710-d4c4fc500505"
+		},
+		"67a4e72d-cf60-2741-ab35-12d9bb3befa8": {
+			"anisotropic": 16.0,
+			"filename": "textures/polka.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "67a4e72d-cf60-2741-ab35-12d9bb3befa8"
+		},
+		"98b41bfb-89d6-1f4d-a298-98ae0a2e4cee": {
+			"anisotropic": 16.0,
+			"filename": "textures/polka.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "98b41bfb-89d6-1f4d-a298-98ae0a2e4cee"
+		},
+		"27b8ebd3-52b3-9745-8a61-8f58c7bda0d1": {
+			"anisotropic": 16.0,
+			"filename": "textures/displacement_map.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "27b8ebd3-52b3-9745-8a61-8f58c7bda0d1"
+		},
+		"fdddc3b2-81a8-1446-9578-95d934071b89": {
+			"anisotropic": 16.0,
+			"filename": "textures/normal_map.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "fdddc3b2-81a8-1446-9578-95d934071b89"
+		},
+		"fb8df720-371c-1f41-b1ef-9ea7bee997e0": {
+			"anisotropic": 16.0,
+			"filename": "textures/normal_map.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "fb8df720-371c-1f41-b1ef-9ea7bee997e0"
+		},
+		"9aa34a01-15e3-a645-a98a-e69721df9b32": {
+			"anisotropic": 16.0,
+			"filename": "textures/bricks_diffuse.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "9aa34a01-15e3-a645-a98a-e69721df9b32"
+		},
+		"babd4dba-e44f-904d-9da2-9a6798d62d73": {
+			"anisotropic": 16.0,
+			"filename": "textures/terrain/sand.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "babd4dba-e44f-904d-9da2-9a6798d62d73"
+		},
+		"ac582168-accd-3248-a92d-adcf98f35de3": {
+			"anisotropic": 16.0,
+			"filename": "textures/terrain/grass.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "ac582168-accd-3248-a92d-adcf98f35de3"
+		},
+		"14ea2e12-b015-3d4e-983b-81d406d17fd1": {
+			"anisotropic": 16.0,
+			"filename": "textures/ui-sprite.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "14ea2e12-b015-3d4e-983b-81d406d17fd1"
+		}
+	},
+	"Texture2DArray": {
+		"f3e3621a-a06c-0344-8cfc-20eec8d1121f": {
+			"anisotropic": 16.0,
+			"filename": "textures/particlesRR.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"x_split": 2,
+			"y_split": 2,
+			"guid": "f3e3621a-a06c-0344-8cfc-20eec8d1121f"
+		}
+	},
+	"Texture3D": {
+		"48bab495-9fa3-ba41-80ad-57c8f7558411": {
+			"filename": "luts/cool.cube",
+			"filter_mag": "Linear",
+			"filter_min": "LinearMipLinear",
+			"generate_mipmaps": true,
+			"wrap_r": "",
+			"wrap_s": "",
+			"wrap_t": "",
+			"guid": "48bab495-9fa3-ba41-80ad-57c8f7558411"
+		},
+		"545d97b4-9bb5-3e47-a8ed-4a55600109c3": {
+			"filename": "luts/Group6.CUBE",
+			"filter_mag": "Linear",
+			"filter_min": "LinearMipLinear",
+			"generate_mipmaps": true,
+			"wrap_r": "",
+			"wrap_s": "",
+			"wrap_t": "",
+			"guid": "545d97b4-9bb5-3e47-a8ed-4a55600109c3"
+		}
+	},
+	"TextureCube": {
+		"0b0921c8-0b8f-b947-bba4-69cb10b7d27d": {
+			"face_filenames": {
+				"NegX": "D:\\School\\Second Year\\Semester 2\\INFR 2350U - Intermediate Computer Graphics\\Group6_FinalTemporary\\bin\\Debug-windows-x86_64\\Week11\\cubemaps\\ocean\\ocean_NegX.jpg",
+				"NegY": "D:\\School\\Second Year\\Semester 2\\INFR 2350U - Intermediate Computer Graphics\\Group6_FinalTemporary\\bin\\Debug-windows-x86_64\\Week11\\cubemaps\\ocean\\ocean_NegY.jpg",
+				"NegZ": "D:\\School\\Second Year\\Semester 2\\INFR 2350U - Intermediate Computer Graphics\\Group6_FinalTemporary\\bin\\Debug-windows-x86_64\\Week11\\cubemaps\\ocean\\ocean_NegZ.jpg",
+				"PosX": "D:\\School\\Second Year\\Semester 2\\INFR 2350U - Intermediate Computer Graphics\\Group6_FinalTemporary\\bin\\Debug-windows-x86_64\\Week11\\cubemaps\\ocean\\ocean_PosX.jpg",
+				"PosY": "D:\\School\\Second Year\\Semester 2\\INFR 2350U - Intermediate Computer Graphics\\Group6_FinalTemporary\\bin\\Debug-windows-x86_64\\Week11\\cubemaps\\ocean\\ocean_PosY.jpg",
+				"PosZ": "D:\\School\\Second Year\\Semester 2\\INFR 2350U - Intermediate Computer Graphics\\Group6_FinalTemporary\\bin\\Debug-windows-x86_64\\Week11\\cubemaps\\ocean\\ocean_PosZ.jpg"
+			},
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"guid": "0b0921c8-0b8f-b947-bba4-69cb10b7d27d"
+		}
+	},
+	"ShaderProgram": {
+		"39dd751b-49c5-7041-8284-2a921c879352": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/post_effects/color_correction.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/fullscreen_quad.glsl"
+			},
+			"name": "",
+			"guid": "39dd751b-49c5-7041-8284-2a921c879352"
+		},
+		"93ca5200-12c6-df45-9849-ea6004879275": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/post_effects/box_filter_3.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/fullscreen_quad.glsl"
+			},
+			"name": "",
+			"guid": "93ca5200-12c6-df45-9849-ea6004879275"
+		},
+		"49476333-96af-6548-a34f-78245471e8bc": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/post_effects/box_filter_5.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/fullscreen_quad.glsl"
+			},
+			"name": "",
+			"guid": "49476333-96af-6548-a34f-78245471e8bc"
+		},
+		"13dbceef-cd7d-8a49-9c95-6c77a5ea9414": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/post_effects/outline.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/fullscreen_quad.glsl"
+			},
+			"name": "",
+			"guid": "13dbceef-cd7d-8a49-9c95-6c77a5ea9414"
+		},
+		"8d725f87-0e02-764f-a7f6-e3707f62605e": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/post_effects/depth_of_field.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/fullscreen_quad.glsl"
+			},
+			"name": "",
+			"guid": "8d725f87-0e02-764f-a7f6-e3707f62605e"
+		},
+		"98d31321-0160-4542-8a7d-2b651fbf85d0": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/post_effects/pixel.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/fullscreen_quad.glsl"
+			},
+			"name": "",
+			"guid": "98d31321-0160-4542-8a7d-2b651fbf85d0"
+		},
+		"5be08de4-0fb1-1642-b8f0-b81dab02291b": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/post_effects/film_grain.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/fullscreen_quad.glsl"
+			},
+			"name": "",
+			"guid": "5be08de4-0fb1-1642-b8f0-b81dab02291b"
+		},
+		"88fa5b6e-12a9-6448-815c-ead4af5e5518": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/deferred_forward.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/basic.glsl"
+			},
+			"name": "Deferred - GBuffer Generation",
+			"guid": "88fa5b6e-12a9-6448-815c-ead4af5e5518"
+		},
+		"9ff14999-591e-0040-b912-1f4dc73eea38": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/deferred_forward.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/foliage.glsl"
+			},
+			"name": "Foliage",
+			"guid": "9ff14999-591e-0040-b912-1f4dc73eea38"
+		},
+		"f259a9f2-b664-9b47-af8c-96bd0e43c616": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/frag_multitextured.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/vert_multitextured.glsl"
+			},
+			"name": "Multitexturing",
+			"guid": "f259a9f2-b664-9b47-af8c-96bd0e43c616"
+		},
+		"431a0ae4-4c0b-9340-8724-7a3ccddce402": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/deferred_forward.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/displacement_mapping.glsl"
+			},
+			"name": "Displacement Mapping",
+			"guid": "431a0ae4-4c0b-9340-8724-7a3ccddce402"
+		},
+		"7c646635-347e-784d-89e3-aafabbbacdae": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/cel_shader.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/displacement_mapping.glsl"
+			},
+			"name": "Cel Shader",
+			"guid": "7c646635-347e-784d-89e3-aafabbbacdae"
+		},
+		"e00e5212-3a09-474c-966b-aeb95886898e": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/skybox_frag.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/skybox_vert.glsl"
+			},
+			"name": "",
+			"guid": "e00e5212-3a09-474c-966b-aeb95886898e"
+		}
+	},
+	"Gameplay::Material": {
+		"df34a2ba-e781-624a-a3dd-ce7a82c21293": {
+			"guid": "df34a2ba-e781-624a-a3dd-ce7a82c21293",
+			"name": "Box",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "860c1193-a535-204f-b856-73e4b8e42509"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "7686f010-640c-8f41-b019-6b76feff62d3"
+				}
+			},
+			"shader": "88fa5b6e-12a9-6448-815c-ead4af5e5518"
+		},
+		"222c4a6c-48b7-0240-a05f-ef3ffe40fe1c": {
+			"guid": "222c4a6c-48b7-0240-a05f-ef3ffe40fe1c",
+			"name": "Monkey",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "8fcb05fa-baee-d449-b429-e577e13cfa79"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "7686f010-640c-8f41-b019-6b76feff62d3"
+				}
+			},
+			"shader": "88fa5b6e-12a9-6448-815c-ead4af5e5518"
+		},
+		"fb93a852-6e0e-d841-a495-25115ae59681": {
+			"guid": "fb93a852-6e0e-d841-a495-25115ae59681",
+			"name": "Box-Specular",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "860c1193-a535-204f-b856-73e4b8e42509"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "7686f010-640c-8f41-b019-6b76feff62d3"
+				}
+			},
+			"shader": "88fa5b6e-12a9-6448-815c-ead4af5e5518"
+		},
+		"5dcc9b4c-021e-3941-80f4-541d9d5c2157": {
+			"guid": "5dcc9b4c-021e-3941-80f4-541d9d5c2157",
+			"name": "Foliage Shader",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "e3fab0ad-697a-d747-bba2-86cd5d2b498e"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "7686f010-640c-8f41-b019-6b76feff62d3"
+				},
+				"u_VerticalScale": {
+					"type": "Float",
+					"value": 1.0
+				},
+				"u_WindDirection": {
+					"type": "Float3",
+					"value": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 0.0
+					}
+				},
+				"u_WindSpeed": {
+					"type": "Float",
+					"value": 1.0
+				},
+				"u_WindStrength": {
+					"type": "Float",
+					"value": 0.5
+				}
+			},
+			"shader": "9ff14999-591e-0040-b912-1f4dc73eea38"
+		},
+		"fbf3adfd-8036-b549-b660-c78f3fd11e26": {
+			"guid": "fbf3adfd-8036-b549-b660-c78f3fd11e26",
+			"name": "Toon",
+			"parameters": {
+				"s_Heightmap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"s_ToonTerm": {
+					"type": "Tex1D",
+					"value": "613d6bd1-6a35-c943-87a1-9ccfb726a584"
+				},
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "860c1193-a535-204f-b856-73e4b8e42509"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "7686f010-640c-8f41-b019-6b76feff62d3"
+				},
+				"u_Scale": {
+					"type": "Float",
+					"value": 0.0
+				}
+			},
+			"shader": "7c646635-347e-784d-89e3-aafabbbacdae"
+		},
+		"7c038b47-b0bb-2c47-90d5-c23aad34157b": {
+			"guid": "7c038b47-b0bb-2c47-90d5-c23aad34157b",
+			"name": "Displacement Map",
+			"parameters": {
+				"s_Heightmap": {
+					"type": "Tex2D",
+					"value": "f564b5c7-2662-b74e-ad22-6d14bbb47a9e"
+				},
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "d369fb4d-e190-7b4d-b710-d4c4fc500505"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "ac39d457-43aa-cd44-98d1-8b2b888ad66e"
+				},
+				"u_Scale": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				}
+			},
+			"shader": "431a0ae4-4c0b-9340-8724-7a3ccddce402"
+		},
+		"b6ae2806-857f-584f-9b47-39fe8b485548": {
+			"guid": "b6ae2806-857f-584f-9b47-39fe8b485548",
+			"name": "Grey",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "e08cedad-602f-0046-9035-cf89a44b7a37"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "7686f010-640c-8f41-b019-6b76feff62d3"
+				}
+			},
+			"shader": "88fa5b6e-12a9-6448-815c-ead4af5e5518"
+		},
+		"3a7034c1-2e42-3342-acf5-52c8b080cfb7": {
+			"guid": "3a7034c1-2e42-3342-acf5-52c8b080cfb7",
+			"name": "Polka",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "67a4e72d-cf60-2741-ab35-12d9bb3befa8"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "98b41bfb-89d6-1f4d-a298-98ae0a2e4cee"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "7686f010-640c-8f41-b019-6b76feff62d3"
+				}
+			},
+			"shader": "88fa5b6e-12a9-6448-815c-ead4af5e5518"
+		},
+		"867ab92b-bfab-5842-9a76-8ad322792c2f": {
+			"guid": "867ab92b-bfab-5842-9a76-8ad322792c2f",
+			"name": "White Bricks",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "27b8ebd3-52b3-9745-8a61-8f58c7bda0d1"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "fdddc3b2-81a8-1446-9578-95d934071b89"
+				}
+			},
+			"shader": "88fa5b6e-12a9-6448-815c-ead4af5e5518"
+		},
+		"59110783-be91-6b47-a5ae-82e281a74fb0": {
+			"guid": "59110783-be91-6b47-a5ae-82e281a74fb0",
+			"name": "Tangent Space Normal Map",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "9aa34a01-15e3-a645-a98a-e69721df9b32"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "fb8df720-371c-1f41-b1ef-9ea7bee997e0"
+				}
+			},
+			"shader": "88fa5b6e-12a9-6448-815c-ead4af5e5518"
+		},
+		"1bedfb3a-b48a-9145-96f7-6ed3d64559fa": {
+			"guid": "1bedfb3a-b48a-9145-96f7-6ed3d64559fa",
+			"name": "Multitexturing",
+			"parameters": {
+				"u_Material.DiffuseA": {
+					"type": "Tex2D",
+					"value": "babd4dba-e44f-904d-9da2-9a6798d62d73"
+				},
+				"u_Material.DiffuseB": {
+					"type": "Tex2D",
+					"value": "ac582168-accd-3248-a92d-adcf98f35de3"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveA": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.EmissiveB": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMapA": {
+					"type": "Tex2D",
+					"value": "7686f010-640c-8f41-b019-6b76feff62d3"
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.5
+				}
+			},
+			"shader": "f259a9f2-b664-9b47-af8c-96bd0e43c616"
+		},
+		"6e2a0357-9c07-ea48-82e9-d4fb84db956b": {
+			"guid": "6e2a0357-9c07-ea48-82e9-d4fb84db956b",
+			"name": "platform",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "a798b24a-66b7-7545-889f-9d62741550fe"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "7686f010-640c-8f41-b019-6b76feff62d3"
+				}
+			},
+			"shader": "88fa5b6e-12a9-6448-815c-ead4af5e5518"
+		},
+		"9aa060e0-4f5e-a24c-a77a-4079b6874cea": {
+			"guid": "9aa060e0-4f5e-a24c-a77a-4079b6874cea",
+			"name": "lava",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "29f9d590-5729-284d-8fcd-f2a0af3ad1ba"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "7686f010-640c-8f41-b019-6b76feff62d3"
+				}
+			},
+			"shader": "88fa5b6e-12a9-6448-815c-ead4af5e5518"
+		},
+		"4f1f5aee-9ec2-0a46-94d2-9bfa41d4f05e": {
+			"guid": "4f1f5aee-9ec2-0a46-94d2-9bfa41d4f05e",
+			"name": "main character",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "866f07d9-7ab2-694d-83f7-aec27f5f60e4"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "7686f010-640c-8f41-b019-6b76feff62d3"
+				}
+			},
+			"shader": "88fa5b6e-12a9-6448-815c-ead4af5e5518"
+		},
+		"37e9ee55-be17-0443-8e57-8fe4ed48a488": {
+			"guid": "37e9ee55-be17-0443-8e57-8fe4ed48a488",
+			"name": "background",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "62a06aaf-5963-9f4f-920b-97d7bb3d30dd"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "7686f010-640c-8f41-b019-6b76feff62d3"
+				}
+			},
+			"shader": "88fa5b6e-12a9-6448-815c-ead4af5e5518"
+		},
+		"fcd55f4c-ecda-2842-9705-730453e74a96": {
+			"guid": "fcd55f4c-ecda-2842-9705-730453e74a96",
+			"name": "win",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "9d1aa31c-f3e9-164d-96dc-d78800af3bb6"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "7686f010-640c-8f41-b019-6b76feff62d3"
+				}
+			},
+			"shader": "88fa5b6e-12a9-6448-815c-ead4af5e5518"
+		},
+		"75a99bc2-b3be-d748-a04f-97657ce23568": {
+			"guid": "75a99bc2-b3be-d748-a04f-97657ce23568",
+			"name": "lose",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "b502dc86-6929-c040-a396-c8e37aad4254"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "7686f010-640c-8f41-b019-6b76feff62d3"
+				}
+			},
+			"shader": "88fa5b6e-12a9-6448-815c-ead4af5e5518"
+		},
+		"9e593126-d344-db49-b706-f61fd010c853": {
+			"guid": "9e593126-d344-db49-b706-f61fd010c853",
+			"name": "ball",
+			"parameters": {
+				"u_Material.AlbedoMap": {
+					"type": "Tex2D",
+					"value": "6ec86f63-1c54-1243-8bab-d27edbec7922"
+				},
+				"u_Material.DiscardThreshold": {
+					"type": "Float",
+					"value": 0.0
+				},
+				"u_Material.EmissiveMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.MetallicShininessMap": {
+					"type": "Tex2D",
+					"value": "null"
+				},
+				"u_Material.NormalMap": {
+					"type": "Tex2D",
+					"value": "7686f010-640c-8f41-b019-6b76feff62d3"
+				}
+			},
+			"shader": "88fa5b6e-12a9-6448-815c-ead4af5e5518"
+		}
+	},
+	"Gameplay::MeshResource": {
+		"0cc3cbcc-4652-174c-a6fd-8efd1d5be288": {
+			"filename": "Monkey.obj",
+			"guid": "0cc3cbcc-4652-174c-a6fd-8efd1d5be288"
+		},
+		"b601cd1c-1814-fc49-8140-e853b9fc8a78": {
+			"filename": "fenrir.obj",
+			"guid": "b601cd1c-1814-fc49-8140-e853b9fc8a78"
+		},
+		"480c707b-ea21-f046-ad3d-c75250b2cc7d": {
+			"filename": "platform2.obj",
+			"guid": "480c707b-ea21-f046-ad3d-c75250b2cc7d"
+		},
+		"5506ee75-4d05-6d4f-aad4-77dcde2db829": {
+			"filename": "trashy.obj",
+			"guid": "5506ee75-4d05-6d4f-aad4-77dcde2db829"
+		},
+		"01ddf011-da10-8942-bb79-3aceb7d8becc": {
+			"filename": "plane.obj",
+			"guid": "01ddf011-da10-8942-bb79-3aceb7d8becc"
+		},
+		"22a1b6e4-a048-e248-b216-825f8321cb23": {
+			"params": [
+				{
+					"color": {
+						"w": 1.0,
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"params": {
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"radius": {
+							"x": 1.0,
+							"y": 1.0,
+							"z": 1.0
+						},
+						"tessellation": {
+							"x": 5.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					},
+					"type": "IcoShere"
+				}
+			],
+			"guid": "22a1b6e4-a048-e248-b216-825f8321cb23"
+		}
+	},
+	"Font": null,
+	"Framebuffer": null
+}
